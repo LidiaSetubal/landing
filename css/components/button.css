@@ -1,0 +1,30 @@
+.btn-given {
+  display: inline-block;
+  background-color: #fff;
+  padding: 16px 30px;
+  border-radius: 50px;
+  color: #4C4A4D;
+  transition: 0.5s;
+}
+.btn-given:hover {
+  background-color: #4C4A4D;
+  color: white;
+  transition: 0.5s;
+}
+
+.but {
+  display: inline-block;
+  background-color: #fff;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: black;
+  margin-top: 20px;
+  transition: 0.5s;
+}
+
+.but:hover {
+  background-color: #4C4A4D;
+  color: white;
+  opacity: 0.8;
+  transition: 0.5s;
+}
